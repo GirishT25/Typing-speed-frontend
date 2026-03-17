@@ -2,9 +2,6 @@
 
 A full-stack web application that measures typing speed (WPM) and accuracy in real-time with secure authentication, performance tracking, and DevOps automation.
 
-🔗 Live Demo
-
-(Add your deployed link here if available)
 
 🛠️ Tech Stack
 
